@@ -99,3 +99,5 @@ _
 .tools/eclipse/Main - Debug in Simulator.launch,b\f\bf8c5c500620426433849c52dda8da2d34b51e60
 ^
 .tools/eclipse/Main - Send Android Build.launch,a\d\adc4df15876e827dad4e14f17d8f4b9d3bf1843b
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
